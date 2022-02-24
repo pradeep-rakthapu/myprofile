@@ -1,7 +1,9 @@
 body{
     background-color: rgb(165, 217, 238);
 }
-
+a{
+    text-decoration: none;
+}
 
 
 
@@ -33,4 +35,11 @@ box-shadow: 3px 3px  10px gray;
 #hover1:hover{
     background-color: gray;
     color: aliceblue;
+}
+#btn{
+    margin-left: 10%;
+    font-size: x-large;
+    
+
+    font-family:'Times New Roman', Times, serif;
 }
